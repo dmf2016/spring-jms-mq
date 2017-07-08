@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: spring-jms
+Bundle-SymbolicName: spring-jms
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.dmf.jms.service,
+ com.dmf.jms.service.impl
